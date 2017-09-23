@@ -2,13 +2,6 @@
 " => General Configurations
 """"""""""""""""""""""""""""""""""""
 
-" Vundle
-if has('gui_running')
-    set rtp+=~/vimfiles/bundle/Vundle.vim
-else
-    set rtp+=~/.vim/bundle/Vundle.vim
-endif
-
 " Plug Plugin Manager
 call plug#begin()
 
