@@ -1,2 +1,4 @@
 .weechat/*
 !.weechat/weechat.conf
+.config/chromium/*
+.config/StardewValley/*
