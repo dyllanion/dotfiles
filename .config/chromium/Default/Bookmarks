@@ -1,0 +1,404 @@
+{
+   "checksum": "1dcbebe3eda3fcda047d4e8718425e7c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13139063254850607",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13150617678523170"
+            },
+            "name": "UF Mail",
+            "sync_transaction_version": "250",
+            "type": "url",
+            "url": "https://outlook.com/ufl.edu"
+         }, {
+            "date_added": "13147392885140356",
+            "id": "52",
+            "name": "Niche",
+            "sync_transaction_version": "230",
+            "type": "url",
+            "url": "https://property.onesite.realpage.com/welcomehome/home/login?siteId=4142015#url=%23login"
+         }, {
+            "date_added": "13139795838980264",
+            "id": "27",
+            "name": "OneUF",
+            "sync_transaction_version": "228",
+            "type": "url",
+            "url": "https://one.uf.edu/"
+         }, {
+            "date_added": "13147722149863526",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13150617515031981"
+            },
+            "name": "Canvas",
+            "sync_transaction_version": "249",
+            "type": "url",
+            "url": "http://elearning.ufl.edu/"
+         }, {
+            "date_added": "13133945906412150",
+            "id": "28",
+            "name": "Plex",
+            "sync_transaction_version": "217",
+            "type": "url",
+            "url": "http://127.0.0.1:32400/web/index.html"
+         }, {
+            "date_added": "13102030349174398",
+            "id": "29",
+            "name": "LibGen",
+            "sync_transaction_version": "219",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "children": [ {
+               "date_added": "13132904771831433",
+               "id": "37",
+               "name": "Battleship",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.datagenetics.com/blog/december32011/index.html"
+            }, {
+               "date_added": "13132904796824048",
+               "id": "38",
+               "name": "Open Data Structures",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://opendatastructures.org/"
+            }, {
+               "date_added": "13132904800245411",
+               "id": "39",
+               "name": "How I Got Started With Programming Side Projects · code.Antrikshy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects"
+            }, {
+               "date_added": "13132904802813093",
+               "id": "40",
+               "name": "free-programming-books/free-programming-books.md at master · vhf/free-programming-books · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1"
+            }, {
+               "date_added": "13099098832269319",
+               "id": "41",
+               "name": "News",
+               "sync_transaction_version": "226",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            }, {
+               "date_added": "13099098832269319",
+               "id": "33",
+               "name": "News",
+               "sync_transaction_version": "227",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            } ],
+            "date_added": "13144637733254171",
+            "date_modified": "13147392979163117",
+            "id": "30",
+            "name": "CompSci",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13147913085129783",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13150365666649698"
+               },
+               "name": "zyBooks Java",
+               "sync_transaction_version": "240",
+               "type": "url",
+               "url": "https://learn.zybooks.com/zybook/UFLCOP3502BlanchardFall2017"
+            }, {
+               "date_added": "13148079894603396",
+               "id": "62",
+               "name": "MindTap - Cengage",
+               "sync_transaction_version": "220",
+               "type": "url",
+               "url": "http://ng.cengage.com/static/nb/ui/index.html?nbId=636013&nbNodeId=234603891&deploymentId=5575297383913754185143607&eISBN=9781337091466#!&parentId=234603892"
+            }, {
+               "date_added": "13148342761107357",
+               "id": "65",
+               "name": "Corner Office - The New York Times",
+               "sync_transaction_version": "234",
+               "type": "url",
+               "url": "https://www.nytimes.com/column/corner-office?mcubz=3"
+            } ],
+            "date_added": "13147923615661311",
+            "date_modified": "13150365763227115",
+            "id": "58",
+            "name": "School Work",
+            "sync_transaction_version": "52",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13148438054695838",
+               "id": "70",
+               "name": "Gear Up Your Future – Annual Scholarship | University of Florida's Scholarship Search Engine",
+               "sync_transaction_version": "222",
+               "type": "url",
+               "url": "http://www.sfa.ufl.edu/search/content/gear-your-future-%E2%80%93-annual-scholarship"
+            }, {
+               "date_added": "13148441823140966",
+               "id": "71",
+               "name": "Scholarships | Achieve Today",
+               "sync_transaction_version": "231",
+               "type": "url",
+               "url": "https://www.achievetoday.com/scholarships"
+            }, {
+               "date_added": "13148441827222205",
+               "id": "72",
+               "name": "Greg Baumgartner Scholarship - Texas Truck Accident Attorney",
+               "sync_transaction_version": "223",
+               "type": "url",
+               "url": "http://www.texas-truckaccidentlawyer.com/scholarship/greg-baumgartner-scholarship/"
+            } ],
+            "date_added": "13148449715592244",
+            "date_modified": "13148449715592244",
+            "id": "68",
+            "name": "Potential Scholarships",
+            "sync_transaction_version": "84",
+            "type": "folder"
+         }, {
+            "date_added": "13148443811562512",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13150430507293004"
+            },
+            "name": "UF APPS",
+            "sync_transaction_version": "244",
+            "type": "url",
+            "url": "https://apps.ufl.edu/Citrix/UFApps_StoreWeb/"
+         } ],
+         "date_added": "13144637658881900",
+         "date_modified": "13150617842647882",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13144637733251609",
+            "date_modified": "13144637733251609",
+            "id": "8",
+            "name": "Payday2",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13133474366948664",
+               "id": "24",
+               "name": "ASMRrequests - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/user/ASMRrequests/videos?flow=grid&view=0&sort=p"
+            }, {
+               "date_added": "13133474381603504",
+               "id": "25",
+               "name": "Heather Feather ASMR - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/user/HeatherFeatherASMR/videos"
+            } ],
+            "date_added": "13144637733251908",
+            "date_modified": "13144637733251908",
+            "id": "9",
+            "name": "ASMR",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13135588754314915",
+               "id": "20",
+               "name": "Forum - Duelist - [2.6] Unstoppable Gladiator 78% Max Block/Spells. 240K DPS Static Strike. Low Budget League Starter - Path of Exile",
+               "sync_transaction_version": "235",
+               "type": "url",
+               "url": "https://www.pathofexile.com/forum/view-thread/1647240"
+            }, {
+               "date_added": "13136270262434298",
+               "id": "21",
+               "name": "Forum - Duelist - [2.6] Varunastra Cleave Slayer. Starting Legacy league couldn't have been easier. - Path of Exile",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pathofexile.com/forum/view-thread/1851410/page/1"
+            }, {
+               "date_added": "13136270269550508",
+               "id": "22",
+               "name": "Forum - Shadow - [2.6] Fire Nova Mine - Perfect League Starter - Low Budget - FAST - HC Viable - Path of Exile",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pathofexile.com/forum/view-thread/1774498"
+            }, {
+               "date_added": "13136270273306542",
+               "id": "23",
+               "name": "Forum - Duelist - [2.6] Norse's Earthquake Slayer / Budget Viable / Guardian & Shaper Farmable - Path of Exile",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pathofexile.com/forum/view-thread/1741080"
+            }, {
+               "date_added": "13147724495857788",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13150467369222140"
+               },
+               "name": "Forum - Ranger - [3.0] That Doomfletch Life | 5.42M Shaper | 7k Life | All Content | PoB Codes | Videos | Reviews | - Path of Exile",
+               "sync_transaction_version": "245",
+               "type": "url",
+               "url": "https://www.pathofexile.com/forum/view-thread/1940495"
+            } ],
+            "date_added": "13144637733251939",
+            "date_modified": "13150299330607770",
+            "id": "10",
+            "name": "Potential Poe Builds",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13136270300976526",
+               "id": "14",
+               "name": "Asynchronous Programming with JavaScript | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/asynchronous-programming-javascript-microsoft-dev234x-0"
+            }, {
+               "date_added": "13136270315985985",
+               "id": "15",
+               "name": "Introduction to Python for Data Science | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-5"
+            }, {
+               "date_added": "13136270318710497",
+               "id": "16",
+               "name": "AngularJS: Advanced Framework Techniques | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-0"
+            }, {
+               "date_added": "13136270321410151",
+               "id": "17",
+               "name": "Intermediate C++ | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/intermediate-c-microsoft-dev210-2x"
+            }, {
+               "date_added": "13136270324218208",
+               "id": "18",
+               "name": "Programming with C# | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/programming-c-microsoft-dev204x-3"
+            }, {
+               "date_added": "13136270327108849",
+               "id": "19",
+               "name": "HTML5 Introduction | edX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0"
+            } ],
+            "date_added": "13144637733251966",
+            "date_modified": "13144637733251966",
+            "id": "11",
+            "name": "Courses for Summer",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13140194504251484",
+            "id": "12",
+            "name": "Stealth Sniper (Quickest Path to max damage) : Fallout4Builds",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Fallout4Builds/comments/3usal7/stealth_sniper_quickest_path_to_max_damage/"
+         }, {
+            "date_added": "13142590893234324",
+            "id": "13",
+            "name": "Buttermilk-Fried Chicken Sandwich : GifRecipes",
+            "sync_transaction_version": "237",
+            "type": "url",
+            "url": "https://www.reddit.com/r/GifRecipes/comments/6fakxi/buttermilkfried_chicken_sandwich/"
+         }, {
+            "date_added": "13144945058760837",
+            "id": "44",
+            "name": "The Big Sick (2017) - Rotten Tomatoes",
+            "sync_transaction_version": "238",
+            "type": "url",
+            "url": "https://www.rottentomatoes.com/m/the_big_sick"
+         }, {
+            "children": [ {
+               "date_added": "13145643852390769",
+               "id": "47",
+               "name": "ABS Plastic ADHD Fidget Spinner -$1.88 Online Shopping| GearBest.com",
+               "sync_transaction_version": "221",
+               "type": "url",
+               "url": "http://www.gearbest.com/novelty-toys/pp_617085.html"
+            }, {
+               "date_added": "13145643872986413",
+               "id": "49",
+               "name": "Amazon.com: Maxboost Tri-Spinner Fidget Spinner Focus Toy Stress Reducer for Kid and Adult [Premium Bearing] Easy Flick, Spin single/both Hands Finger Prime Figit Toys Perfect For Anxiety, Autism: Toys & Games",
+               "sync_transaction_version": "232",
+               "type": "url",
+               "url": "https://www.amazon.com/Maxboost-Tri-Spinner-Reducer-Premium-MB000119/dp/B06XDK684S"
+            }, {
+               "date_added": "13148942107869028",
+               "id": "76",
+               "name": "Vintage Long Anchor Locket Necklace Anchor Necklace Vintage",
+               "sync_transaction_version": "233",
+               "type": "url",
+               "url": "https://www.etsy.com/listing/86241374/vintage-long-anchor-locket-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=anchor%20locket&ref=sc_gallery_2&plkey=6644757b27db454b93d2442baa52641cf0e42c63:86241374"
+            } ],
+            "date_added": "13145643869484361",
+            "date_modified": "13148942118960732",
+            "id": "48",
+            "name": "Don't tell Lex",
+            "sync_transaction_version": "17",
+            "type": "folder"
+         } ],
+         "date_added": "13144637658881906",
+         "date_modified": "13145905157652116",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "250",
+      "synced": {
+         "children": [ {
+            "date_added": "13053670222202929",
+            "id": "6",
+            "name": "9Androidapps",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://9androidapps.com/"
+         }, {
+            "date_added": "13052733997633880",
+            "id": "7",
+            "name": "Batoto",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.batoto.net/"
+         }, {
+            "date_added": "13147677132760875",
+            "id": "53",
+            "name": "Publix - Weekly Ad - Gainesville",
+            "sync_transaction_version": "45",
+            "type": "url",
+            "url": "http://weeklyad.publix.com/Publix/Entry/LandingContent?storeid=2597803&sneakpeek=N&listingid=0"
+         }, {
+            "date_added": "13148598233625452",
+            "id": "75",
+            "name": "How Much Money to Donate for Gosu Facecam? | Imaqtpie's Penta Ft. Vincent - Best of LoL Streams #178 - YouTube",
+            "sync_transaction_version": "239",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=8KuE34kkES0&t=323s"
+         } ],
+         "date_added": "13144637658881906",
+         "date_modified": "13148598238495786",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,81 @@
+2017-08-01 22:06:17,053 INFO - root - Initialising application
+2017-08-01 22:06:17,057 INFO - root - Initialise global hotkeys
+2017-08-01 22:06:17,057 INFO - config-manager - No configuration found - creating new one
+2017-08-01 22:06:17,059 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:06:17,060 INFO - config-manager - Persisting configuration
+2017-08-01 22:06:17,060 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-01 22:06:17,060 INFO - service - Starting service
+2017-08-01 22:06:17,099 INFO - interface - XRecord interface thread starting
+2017-08-01 22:06:17,100 INFO - service - Service now marked as running
+2017-08-01 22:06:17,156 INFO - root - Entering main()
+2017-08-01 22:06:22,984 INFO - root - Displaying configuration window
+2017-08-01 22:06:42,420 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:06:42,421 INFO - config-manager - Persisting configuration
+2017-08-01 22:06:42,421 INFO - config-manager - Backing up existing config file
+2017-08-01 22:06:42,422 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-01 22:06:47,522 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:06:47,522 INFO - config-manager - Persisting configuration
+2017-08-01 22:06:47,522 INFO - config-manager - Backing up existing config file
+2017-08-01 22:06:47,524 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-01 22:06:53,481 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:06:53,481 INFO - config-manager - Persisting configuration
+2017-08-01 22:06:53,481 INFO - config-manager - Backing up existing config file
+2017-08-01 22:06:53,482 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-01 22:07:04,322 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:07:04,322 INFO - config-manager - Persisting configuration
+2017-08-01 22:07:04,323 INFO - config-manager - Backing up existing config file
+2017-08-01 22:07:04,324 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-01 22:09:26,415 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:09:32,581 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:09:32,587 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 146, in __eventLoop
+    method(*args)
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 615, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 900, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: 'ConfigManager' object has no attribute 'workAroundApps'
+2017-08-01 22:09:34,392 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:09:34,398 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 146, in __eventLoop
+    method(*args)
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 615, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 900, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: 'ConfigManager' object has no attribute 'workAroundApps'
+2017-08-01 22:09:49,067 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 146, in __eventLoop
+    method(*args)
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 615, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 900, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: 'ConfigManager' object has no attribute 'workAroundApps'
+2017-08-01 22:09:56,094 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 146, in __eventLoop
+    method(*args)
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 615, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python3.6/site-packages/autokey/interface.py", line 900, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: 'ConfigManager' object has no attribute 'workAroundApps'
+2017-08-01 22:10:07,613 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-01 22:10:20,330 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:28,083 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:28,315 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:28,496 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:28,635 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:28,819 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:29,138 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:29,337 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:10:29,516 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:11:46,816 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:11:49,438 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:11:49,706 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:11:49,891 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-01 22:11:50,079 INFO - service - Matched hotkey phrase/script with prompt=False

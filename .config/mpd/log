@@ -1,0 +1,940 @@
+Jul 16 22:10 : exception: Failed to open /home/dyllan/.config/mpd/state: No such file or directory
+Jul 16 22:10 : exception: Failed to access /home/dyllan/Music: No such file or directory
+Jul 16 22:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 22:10 : exception: Failed to enable output "My Pulse Output" [pulse]
+Jul 16 22:10 : exception: nested: pa_context_connect() has failed: Connection refused
+Jul 16 22:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 22:13 : exception: Failed to enable output "My Pulse Output" [pulse]
+Jul 16 22:13 : exception: nested: pa_context_connect() has failed: Connection refused
+Jul 16 22:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 22:13 : exception: Failed to enable output "My Pulse Output" [pulse]
+Jul 16 22:13 : exception: nested: pa_context_connect() has failed: Connection refused
+Jul 16 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 22:14 : exception: Failed to enable output "My Pulse Output" [pulse]
+Jul 16 22:14 : exception: nested: pa_context_connect() has failed: Connection refused
+Jul 16 22:24 : client: [0] opened from 127.0.0.1:51468
+Jul 16 22:24 : client: [0] closed
+Jul 16 22:28 : client: [1] opened from 127.0.0.1:51642
+Jul 16 22:28 : client: [1] closed
+Jul 16 23:09 : client: [0] opened from 127.0.0.1:57300
+Jul 16 23:09 : client: [0] closed
+Jul 16 23:10 : client: [1] opened from 127.0.0.1:57302
+Jul 16 23:10 : client: [1] closed
+Jul 16 23:10 : client: [2] opened from 127.0.0.1:57304
+Jul 16 23:11 : client: [2] closed
+Jul 16 23:11 : client: [3] opened from 127.0.0.1:57306
+Jul 16 23:11 : client: [3] closed
+Jul 16 23:11 : client: [4] opened from 127.0.0.1:57308
+Jul 16 23:11 : client: [4] closed
+Jul 16 23:12 : client: [5] opened from 127.0.0.1:57310
+Jul 16 23:12 : client: [5] closed
+Jul 16 23:12 : client: [6] opened from 127.0.0.1:57332
+Jul 16 23:12 : client: [6] closed
+Jul 16 23:13 : client: [7] opened from 127.0.0.1:57334
+Jul 16 23:13 : client: [7] closed
+Jul 16 23:13 : client: [8] opened from 127.0.0.1:57336
+Jul 16 23:13 : client: [8] closed
+Jul 16 23:14 : client: [9] opened from 127.0.0.1:57338
+Jul 16 23:14 : client: [9] closed
+Jul 16 23:14 : client: [10] opened from 127.0.0.1:57340
+Jul 16 23:14 : client: [10] closed
+Jul 16 23:14 : client: [11] opened from 127.0.0.1:57342
+Jul 16 23:14 : client: [11] closed
+Jul 16 23:14 : client: [12] opened from 127.0.0.1:57344
+Jul 16 23:15 : client: [12] closed
+Jul 16 23:16 : client: [13] opened from 127.0.0.1:57512
+Jul 16 23:16 : client: [13] closed
+Jul 16 23:16 : client: [14] opened from 127.0.0.1:57514
+Jul 16 23:17 : client: [14] closed
+Jul 16 23:17 : client: [15] opened from 127.0.0.1:57516
+Jul 16 23:17 : client: [15] closed
+Jul 16 23:17 : client: [16] opened from 127.0.0.1:57518
+Jul 16 23:18 : client: [16] closed
+Jul 16 23:18 : client: [17] opened from 127.0.0.1:57520
+Jul 16 23:18 : client: [17] closed
+Jul 16 23:18 : client: [18] opened from 127.0.0.1:57522
+Jul 16 23:18 : client: [18] closed
+Jul 16 23:22 : client: [19] opened from 127.0.0.1:57524
+Jul 16 23:22 : client: [19] closed
+Jul 16 23:25 : client: [20] opened from 127.0.0.1:57588
+Jul 16 23:26 : client: [20] closed
+Jul 16 23:26 : client: [21] opened from 127.0.0.1:57590
+Jul 16 23:31 : client: [21] closed
+Jul 16 23:31 : client: [22] opened from 127.0.0.1:57670
+Jul 16 23:33 : client: [22] closed
+Jul 16 23:33 : client: [23] opened from 127.0.0.1:57726
+Jul 16 23:36 : client: [23] closed
+Jul 16 23:36 : client: [24] opened from 127.0.0.1:57728
+Jul 16 23:39 : client: [24] closed
+Jul 16 23:39 : client: [25] opened from 127.0.0.1:57732
+Jul 16 23:40 : client: [25] closed
+Jul 16 23:41 : client: [26] opened from 127.0.0.1:57734
+Jul 16 23:41 : client: [26] closed
+Jul 16 23:41 : client: [27] opened from 127.0.0.1:57738
+Jul 16 23:42 : client: [27] closed
+Jul 16 23:42 : client: [28] opened from 127.0.0.1:57740
+Jul 16 23:42 : client: [28] closed
+Jul 16 23:42 : client: [29] opened from 127.0.0.1:57742
+Jul 16 23:42 : client: [29] closed
+Jul 16 23:42 : client: [30] opened from 127.0.0.1:57744
+Jul 16 23:43 : client: [30] closed
+Jul 16 23:43 : client: [31] opened from 127.0.0.1:57780
+Jul 16 23:44 : client: [31] closed
+Jul 16 23:44 : client: [32] opened from 127.0.0.1:57782
+Jul 16 23:44 : client: [33] opened from 127.0.0.1:57786
+Jul 16 23:44 : client: [33] closed
+Jul 16 23:45 : client: [32] closed
+Jul 16 23:45 : client: [34] opened from 127.0.0.1:57856
+Jul 16 23:48 : client: [35] opened from 127.0.0.1:57920
+Jul 16 23:48 : client: [35] closed
+Jul 16 23:48 : client: [34] closed
+Jul 16 23:48 : client: [36] opened from 127.0.0.1:57922
+Jul 16 23:49 : client: [36] closed
+Jul 16 23:49 : client: [37] opened from 127.0.0.1:57924
+Jul 16 23:51 : client: [38] opened from 127.0.0.1:58050
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_04_-__.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_02_-__.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_05_-_.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_03_-_.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_01_-_.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_06_-_.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_07_-__________.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_08_-_.mp3
+Jul 16 23:51 : update: added Anonymous420_-_/Anonymous420_-_09_-_.mp3
+Jul 16 23:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 23:51 : player: played "Anonymous420_-_/Anonymous420_-_03_-_.mp3"
+Jul 16 23:52 : client: [38] closed
+Jul 16 23:52 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 16 23:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 23:52 : client: [0] opened from 127.0.0.1:58062
+Jul 16 23:52 : client: [1] opened from 127.0.0.1:58066
+Jul 16 23:55 : client: [1] closed
+Jul 16 23:55 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 16 23:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 23:55 : client: [0] opened from 127.0.0.1:58080
+Jul 16 23:55 : client: [1] opened from 127.0.0.1:58084
+Jul 16 23:56 : client: [1] closed
+Jul 16 23:56 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 16 23:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 23:56 : config: option 'mixer_device' on line 19 was not recognized
+Jul 16 23:56 : config: option 'mixer_control' on line 20 was not recognized
+Jul 16 23:56 : client: [0] opened from 127.0.0.1:58094
+Jul 16 23:56 : client: [1] opened from 127.0.0.1:58098
+Jul 16 23:58 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:01 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:03 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:06 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:08 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:11 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:13 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:16 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:18 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:21 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:23 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:26 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:28 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:31 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:33 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:35 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:38 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:40 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:42 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:45 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:47 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:50 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:52 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 00:55 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 00:57 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:00 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:02 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:05 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:07 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:10 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:12 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:15 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:17 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:19 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:22 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:24 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:26 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:29 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:31 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:34 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:36 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:39 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:41 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:44 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:46 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:49 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:51 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:54 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 01:56 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 01:58 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:01 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:03 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:06 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:08 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:10 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:13 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:15 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:18 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:20 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:23 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:25 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:28 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:30 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:33 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:35 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:38 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:40 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:42 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:45 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:47 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:49 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:52 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:54 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 02:57 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 02:59 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:02 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:04 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:07 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:09 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:12 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:14 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:17 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:19 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:22 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:24 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:26 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:29 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:31 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:33 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:36 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:38 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:41 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:43 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:46 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:48 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:51 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:53 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 03:56 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 03:58 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:01 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:03 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:06 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:08 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:10 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:13 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:15 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:17 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:20 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:22 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:25 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:27 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:30 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:32 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:35 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:37 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:40 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:42 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:45 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:47 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:49 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:52 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:54 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 04:57 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 04:59 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:01 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:04 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:06 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:09 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:11 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:14 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:16 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:19 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:21 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 05:25 : config: option 'mixer_device' on line 19 was not recognized
+Jul 17 05:25 : config: option 'mixer_control' on line 20 was not recognized
+Jul 17 05:25 : client: [0] opened from 127.0.0.1:53072
+Jul 17 05:25 : client: [0] closed
+Jul 17 05:25 : client: [1] opened from 127.0.0.1:53074
+Jul 17 05:25 : client: [2] opened from 127.0.0.1:53078
+Jul 17 05:25 : client: [2] closed
+Jul 17 05:25 : client: [3] opened from 127.0.0.1:53082
+Jul 17 05:25 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 05:27 : client: [3] closed
+Jul 17 05:28 : player: played "Anonymous420_-_/Anonymous420_-_08_-_.mp3"
+Jul 17 05:28 : player: played "Anonymous420_-_/Anonymous420_-_08_-_.mp3"
+Jul 17 05:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 05:28 : config: option 'options' on line 18 was not recognized
+Jul 17 05:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 05:28 : client: [0] opened from 127.0.0.1:53090
+Jul 17 05:28 : client: [1] opened from 127.0.0.1:53094
+Jul 17 05:31 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:31 : client: [1] closed
+Jul 17 05:33 : player: played "Anonymous420_-_/Anonymous420_-_08_-_.mp3"
+Jul 17 05:34 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 05:42 : config: option 'options' on line 18 was not recognized
+Jul 17 05:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 05:42 : client: [0] opened from 127.0.0.1:39514
+Jul 17 05:42 : client: [1] opened from 127.0.0.1:39518
+Jul 17 05:42 : exception: Failed to open audio output
+Jul 17 05:42 : exception: Failed to open audio output
+Jul 17 05:44 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 05:48 : client: [1] closed
+Jul 17 06:14 : config: option 'options' on line 18 was not recognized
+Jul 17 06:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:14 : client: [0] opened from 127.0.0.1:45260
+Jul 17 06:14 : client: [1] opened from 127.0.0.1:45264
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Jul 17 06:14 : exception: Failed to open "Sound Card" [alsa]
+Jul 17 06:14 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 17 06:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:16 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 06:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:16 : config: option 'options' on line 18 was not recognized
+Jul 17 06:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:17 : client: [0] opened from 127.0.0.1:40458
+Jul 17 06:17 : client: [1] opened from 127.0.0.1:40462
+Jul 17 06:19 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 06:21 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 06:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:21 : config: option 'options' on line 18 was not recognized
+Jul 17 06:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 06:21 : client: [0] opened from 127.0.0.1:42674
+Jul 17 06:21 : client: [1] opened from 127.0.0.1:42760
+Jul 17 06:46 : client: [0] closed
+Jul 17 06:46 : client: [2] opened from 127.0.0.1:42884
+Jul 17 06:47 : client: [2] closed
+Jul 17 06:47 : client: [3] opened from 127.0.0.1:42992
+Jul 17 06:48 : client: [3] closed
+Jul 17 06:48 : client: [4] opened from 127.0.0.1:42994
+Jul 17 06:50 : client: [4] closed
+Jul 17 06:50 : client: [5] opened from 127.0.0.1:43030
+Jul 17 06:51 : client: [5] closed
+Jul 17 06:51 : client: [6] opened from 127.0.0.1:43032
+Jul 17 06:52 : client: [6] closed
+Jul 17 06:52 : client: [7] opened from 127.0.0.1:43034
+Jul 17 06:52 : client: [7] closed
+Jul 17 06:52 : client: [8] opened from 127.0.0.1:43036
+Jul 17 06:52 : client: [8] closed
+Jul 17 06:52 : client: [9] opened from 127.0.0.1:43038
+Jul 17 06:52 : client: [9] closed
+Jul 17 06:52 : client: [10] opened from 127.0.0.1:43040
+Jul 17 07:22 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 07:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 07:25 : config: option 'options' on line 18 was not recognized
+Jul 17 07:25 : client: [0] opened from 127.0.0.1:59166
+Jul 17 07:28 : client: [0] closed
+Jul 17 07:28 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 07:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 07:29 : config: option 'options' on line 18 was not recognized
+Jul 17 07:29 : client: [0] opened from 127.0.0.1:39256
+Jul 17 07:31 : client: [0] closed
+Jul 17 07:31 : client: [1] opened from 127.0.0.1:39340
+Jul 17 07:31 : client: [1] closed
+Jul 17 07:31 : client: [2] opened from 127.0.0.1:39342
+Jul 17 07:31 : client: [2] closed
+Jul 17 07:31 : client: [3] opened from 127.0.0.1:39344
+Jul 17 07:33 : client: [3] closed
+Jul 17 07:33 : client: [4] opened from 127.0.0.1:39368
+Jul 17 07:34 : client: [4] closed
+Jul 17 07:34 : client: [5] opened from 127.0.0.1:39378
+Jul 17 07:35 : client: [5] closed
+Jul 17 07:35 : client: [6] opened from 127.0.0.1:39380
+Jul 17 07:39 : client: [6] closed
+Jul 17 07:39 : client: [7] opened from 127.0.0.1:39384
+Jul 17 07:40 : client: [7] closed
+Jul 17 07:40 : client: [8] opened from 127.0.0.1:39386
+Jul 17 07:41 : client: [8] closed
+Jul 17 07:41 : client: [9] opened from 127.0.0.1:39388
+Jul 17 07:43 : client: [9] closed
+Jul 17 07:43 : client: [10] opened from 127.0.0.1:39452
+Jul 17 07:43 : client: [10] closed
+Jul 17 07:43 : client: [11] opened from 127.0.0.1:39454
+Jul 17 07:44 : client: [11] closed
+Jul 17 07:44 : client: [12] opened from 127.0.0.1:39456
+Jul 17 07:44 : client: [12] closed
+Jul 17 07:44 : client: [13] opened from 127.0.0.1:39458
+Jul 17 07:44 : client: [13] closed
+Jul 17 07:44 : client: [14] opened from 127.0.0.1:39460
+Jul 17 07:45 : client: [14] closed
+Jul 17 07:45 : client: [15] opened from 127.0.0.1:39462
+Jul 17 07:46 : client: [15] closed
+Jul 17 07:46 : client: [16] opened from 127.0.0.1:39478
+Jul 17 07:46 : client: [16] closed
+Jul 17 07:46 : client: [17] opened from 127.0.0.1:39480
+Jul 17 07:46 : client: [17] closed
+Jul 17 07:46 : client: [18] opened from 127.0.0.1:39482
+Jul 17 07:48 : client: [18] closed
+Jul 17 07:48 : client: [19] opened from 127.0.0.1:39494
+Jul 17 07:49 : client: [19] closed
+Jul 17 07:49 : client: [20] opened from 127.0.0.1:39502
+Jul 17 07:50 : client: [20] closed
+Jul 17 07:50 : client: [21] opened from 127.0.0.1:39504
+Jul 17 07:50 : client: [21] closed
+Jul 17 07:50 : client: [22] opened from 127.0.0.1:39506
+Jul 17 07:52 : client: [22] closed
+Jul 17 07:52 : client: [23] opened from 127.0.0.1:39508
+Jul 17 07:52 : client: [23] closed
+Jul 17 07:52 : client: [24] opened from 127.0.0.1:39510
+Jul 17 07:53 : client: [24] closed
+Jul 17 07:53 : client: [25] opened from 127.0.0.1:39512
+Jul 17 07:53 : client: [25] closed
+Jul 17 07:53 : client: [26] opened from 127.0.0.1:39514
+Jul 17 07:54 : client: [26] closed
+Jul 17 07:54 : client: [27] opened from 127.0.0.1:39516
+Jul 17 07:54 : client: [27] closed
+Jul 17 07:54 : client: [28] opened from 127.0.0.1:39518
+Jul 17 07:54 : client: [28] closed
+Jul 17 07:54 : client: [29] opened from 127.0.0.1:39520
+Jul 17 07:55 : client: [29] closed
+Jul 17 07:55 : client: [30] opened from 127.0.0.1:39522
+Jul 17 07:55 : client: [30] closed
+Jul 17 07:56 : client: [31] opened from 127.0.0.1:39524
+Jul 17 07:56 : client: [31] closed
+Jul 17 07:56 : client: [32] opened from 127.0.0.1:39526
+Jul 17 07:57 : client: [32] closed
+Jul 17 07:57 : client: [33] opened from 127.0.0.1:39528
+Jul 17 07:58 : client: [33] closed
+Jul 17 07:58 : client: [34] opened from 127.0.0.1:39530
+Jul 17 07:59 : client: [34] closed
+Jul 17 07:59 : client: [35] opened from 127.0.0.1:39532
+Jul 17 08:00 : client: [35] closed
+Jul 17 08:00 : client: [36] opened from 127.0.0.1:39536
+Jul 17 08:01 : client: [36] closed
+Jul 17 08:01 : client: [37] opened from 127.0.0.1:39538
+Jul 17 08:01 : client: [37] closed
+Jul 17 08:01 : client: [38] opened from 127.0.0.1:39540
+Jul 17 08:02 : client: [38] closed
+Jul 17 08:02 : client: [39] opened from 127.0.0.1:39542
+Jul 17 08:02 : client: [40] opened from 127.0.0.1:39546
+Jul 17 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 08:02 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 08:02 : client: [40] closed
+Jul 17 08:03 : client: [39] closed
+Jul 17 08:03 : client: [41] opened from 127.0.0.1:39548
+Jul 17 08:23 : client: [41] closed
+Jul 17 08:23 : client: [42] opened from 127.0.0.1:40020
+Jul 17 08:26 : client: [42] closed
+Jul 17 08:26 : client: [43] opened from 127.0.0.1:40042
+Jul 17 09:00 : client: [43] closed
+Jul 17 09:00 : client: [44] opened from 127.0.0.1:40540
+Jul 17 09:02 : client: [44] closed
+Jul 17 09:02 : client: [45] opened from 127.0.0.1:40550
+Jul 17 09:03 : client: [45] closed
+Jul 17 09:03 : client: [46] opened from 127.0.0.1:40554
+Jul 17 09:05 : config: option 'options' on line 18 was not recognized
+Jul 17 09:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 09:05 : client: [0] opened from 127.0.0.1:58442
+Jul 17 09:07 : client: [1] opened from 127.0.0.1:58546
+Jul 17 09:07 : client: [1] closed
+Jul 17 09:07 : client: [2] opened from 127.0.0.1:58548
+Jul 17 09:07 : client: [2] closed
+Jul 17 09:08 : client: [0] closed
+Jul 17 09:08 : client: [3] opened from 127.0.0.1:58550
+Jul 17 09:08 : client: [4] opened from 127.0.0.1:58554
+Jul 17 09:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 09:10 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 09:14 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 09:17 : client: [3] closed
+Jul 17 09:17 : client: [5] opened from 127.0.0.1:58676
+Jul 17 09:17 : client: [5] closed
+Jul 17 09:17 : client: [6] opened from 127.0.0.1:58678
+Jul 17 09:18 : client: [6] closed
+Jul 17 09:18 : client: [7] opened from 127.0.0.1:58680
+Jul 17 09:18 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 09:20 : client: [7] closed
+Jul 17 09:20 : client: [8] opened from 127.0.0.1:58760
+Jul 17 09:20 : player: played "Anonymous420_-_/Anonymous420_-_04_-__.mp3"
+Jul 17 09:21 : client: [8] closed
+Jul 17 09:21 : client: [9] opened from 127.0.0.1:58762
+Jul 17 09:21 : client: [9] closed
+Jul 17 09:21 : client: [10] opened from 127.0.0.1:58764
+Jul 17 09:23 : player: played "Anonymous420_-_/Anonymous420_-_07_-__________.mp3"
+Jul 17 09:23 : client: [10] closed
+Jul 17 09:23 : client: [11] opened from 127.0.0.1:58808
+Jul 17 09:25 : player: played "Anonymous420_-_/Anonymous420_-_08_-_.mp3"
+Jul 17 09:25 : client: [11] closed
+Jul 17 09:25 : client: [12] opened from 127.0.0.1:58834
+Jul 17 09:25 : client: [12] closed
+Jul 17 09:26 : client: [13] opened from 127.0.0.1:58836
+Jul 17 09:28 : client: [13] closed
+Jul 17 09:28 : client: [14] opened from 127.0.0.1:58838
+Jul 17 09:28 : client: [14] closed
+Jul 17 09:28 : client: [15] opened from 127.0.0.1:58840
+Jul 17 09:28 : client: [15] closed
+Jul 17 09:29 : client: [16] opened from 127.0.0.1:58842
+Jul 17 09:29 : player: played "Anonymous420_-_/Anonymous420_-_09_-_.mp3"
+Jul 17 09:31 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 09:32 : player: played "Anonymous420_-_/Anonymous420_-_03_-_.mp3"
+Jul 17 09:32 : client: [4] closed
+Jul 17 09:33 : config: option 'options' on line 18 was not recognized
+Jul 17 09:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 09:33 : client: [0] opened from 127.0.0.1:36418
+Jul 17 09:33 : client: [0] closed
+Jul 17 09:33 : client: [1] opened from 127.0.0.1:36510
+Jul 17 09:34 : client: [1] closed
+Jul 17 09:34 : client: [2] opened from 127.0.0.1:36512
+Jul 17 10:18 : client: [2] closed
+Jul 17 10:18 : client: [3] opened from 127.0.0.1:37072
+Jul 17 10:18 : config: option 'options' on line 18 was not recognized
+Jul 17 10:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 10:18 : client: [0] opened from 127.0.0.1:34992
+Jul 17 22:57 : client: [0] closed
+Jul 17 22:57 : client: [1] opened from 127.0.0.1:38500
+Jul 17 22:58 : client: [2] opened from 127.0.0.1:38504
+Jul 17 22:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 22:58 : client: [2] closed
+Jul 17 22:59 : client: [1] closed
+Jul 17 22:59 : client: [3] opened from 127.0.0.1:38506
+Jul 17 22:59 : client: [3] closed
+Jul 17 22:59 : client: [4] opened from 127.0.0.1:38508
+Jul 17 23:00 : client: [4] closed
+Jul 17 23:00 : client: [5] opened from 127.0.0.1:38512
+Jul 17 23:00 : client: [5] closed
+Jul 17 23:00 : client: [6] opened from 127.0.0.1:38514
+Jul 17 23:00 : player: played "Anonymous420_-_/Anonymous420_-_01_-_.mp3"
+Jul 17 23:04 : client: [7] opened from 127.0.0.1:38560
+Jul 17 23:04 : player: played "Anonymous420_-_/Anonymous420_-_02_-__.mp3"
+Jul 17 23:08 : client: [6] closed
+Jul 17 23:08 : client: [8] opened from 127.0.0.1:38586
+Jul 17 23:09 : client: [8] closed
+Jul 17 23:09 : client: [9] opened from 127.0.0.1:38588
+Jul 17 23:28 : client: [7] closed
+Jul 17 23:39 : client: [9] closed
+Jul 17 23:39 : client: [10] opened from 127.0.0.1:38742
+Jul 17 23:41 : config: option 'options' on line 18 was not recognized
+Jul 17 23:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 23:41 : client: [0] opened from 127.0.0.1:58504
+Jul 18 00:36 : config: option 'options' on line 18 was not recognized
+Jul 18 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 00:36 : client: [0] opened from 127.0.0.1:46318
+Jul 18 00:47 : client: [0] closed
+Jul 18 00:47 : client: [1] opened from 127.0.0.1:46738
+Jul 18 00:47 : client: [1] closed
+Jul 18 00:48 : client: [2] opened from 127.0.0.1:46740
+Jul 18 00:50 : client: [2] closed
+Jul 18 00:50 : client: [3] opened from 127.0.0.1:46862
+Jul 18 01:12 : config: option 'options' on line 18 was not recognized
+Jul 18 01:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 01:12 : client: [0] opened from 127.0.0.1:57922
+Jul 18 02:09 : config: option 'options' on line 18 was not recognized
+Jul 18 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 02:09 : client: [0] opened from 127.0.0.1:57284
+Jul 19 10:35 : config: option 'options' on line 18 was not recognized
+Jul 19 10:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 10:35 : client: [0] opened from 127.0.0.1:54406
+Jul 19 11:00 : client: [0] closed
+Jul 19 11:01 : config: option 'options' on line 18 was not recognized
+Jul 19 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 11:01 : client: [0] opened from 127.0.0.1:60656
+Jul 19 11:10 : config: option 'options' on line 18 was not recognized
+Jul 19 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 11:10 : client: [0] opened from 127.0.0.1:42740
+Jul 19 11:11 : client: [0] closed
+Jul 19 11:12 : config: option 'options' on line 18 was not recognized
+Jul 19 11:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 11:12 : client: [0] opened from 127.0.0.1:56056
+Jul 20 07:24 : config: option 'options' on line 18 was not recognized
+Jul 20 07:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 07:24 : client: [0] opened from 127.0.0.1:57580
+Jul 20 07:46 : client: [0] closed
+Jul 20 07:47 : config: option 'options' on line 18 was not recognized
+Jul 20 07:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 07:47 : client: [0] opened from 127.0.0.1:45300
+Jul 20 07:53 : config: option 'options' on line 18 was not recognized
+Jul 20 07:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 07:53 : client: [0] opened from 127.0.0.1:40420
+Jul 20 07:56 : config: option 'options' on line 18 was not recognized
+Jul 20 07:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 07:56 : client: [0] opened from 127.0.0.1:52718
+Jul 20 08:02 : config: option 'options' on line 18 was not recognized
+Jul 20 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 08:02 : client: [0] opened from 127.0.0.1:40422
+Jul 20 08:03 : client: [0] closed
+Jul 20 08:08 : config: option 'options' on line 18 was not recognized
+Jul 20 08:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 08:08 : client: [0] opened from 127.0.0.1:47532
+Jul 20 08:22 : config: option 'options' on line 18 was not recognized
+Jul 20 08:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 08:22 : client: [0] opened from 127.0.0.1:33274
+Jul 20 11:22 : client: [0] closed
+Jul 20 11:23 : config: option 'options' on line 18 was not recognized
+Jul 20 11:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 11:23 : client: [0] opened from 127.0.0.1:43738
+Jul 20 14:53 : config: option 'options' on line 18 was not recognized
+Jul 20 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 14:53 : client: [0] opened from 127.0.0.1:32986
+Jul 20 22:44 : config: option 'options' on line 18 was not recognized
+Jul 20 22:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 22:44 : client: [0] opened from 127.0.0.1:56390
+Jul 20 23:00 : client: [0] closed
+Jul 20 23:00 : config: option 'options' on line 18 was not recognized
+Jul 20 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 23:00 : client: [0] opened from 127.0.0.1:57458
+Jul 22 10:48 : client: [0] closed
+Jul 22 10:48 : client: [1] opened from 127.0.0.1:57970
+Jul 22 10:49 : client: [1] closed
+Jul 22 10:49 : client: [2] opened from 127.0.0.1:57972
+Jul 22 10:54 : client: [2] closed
+Jul 22 10:54 : client: [3] opened from 127.0.0.1:57974
+Jul 22 10:54 : client: [3] closed
+Jul 22 10:54 : client: [4] opened from 127.0.0.1:57976
+Jul 22 10:56 : client: [4] closed
+Jul 22 10:56 : client: [5] opened from 127.0.0.1:57978
+Jul 22 10:56 : client: [5] closed
+Jul 22 10:56 : client: [6] opened from 127.0.0.1:57980
+Jul 22 10:56 : client: [7] opened from 127.0.0.1:57984
+Jul 22 10:57 : exception: No such directory
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_09_-_.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_08_-_.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_07_-__________.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_04_-__.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_02_-__.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_06_-_.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_05_-_.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_03_-_.mp3
+Jul 22 10:57 : update: removing Anonymous420_-_/Anonymous420_-_01_-_.mp3
+Jul 22 11:01 : client: [6] closed
+Jul 22 11:01 : client: [8] opened from 127.0.0.1:57986
+Jul 22 11:01 : client: [7] closed
+Jul 22 11:01 : client: [8] closed
+Jul 22 11:01 : client: [9] opened from 127.0.0.1:57988
+Jul 22 11:01 : client: [10] opened from 127.0.0.1:57992
+Jul 23 07:28 : config: option 'options' on line 18 was not recognized
+Jul 23 07:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 07:28 : client: [0] opened from 127.0.0.1:33838
+Jul 23 07:28 : client: [1] opened from 127.0.0.1:33840
+Jul 23 07:31 : client: [1] closed
+Jul 23 07:31 : client: [2] opened from 127.0.0.1:33908
+Jul 24 10:39 : client: [0] closed
+Jul 24 10:42 : config: option 'options' on line 18 was not recognized
+Jul 24 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 24 10:42 : client: [0] opened from 127.0.0.1:37368
+Jul 24 10:42 : client: [1] opened from 127.0.0.1:37370
+Jul 24 11:21 : client: [0] closed
+Jul 24 11:21 : client: [1] closed
+Jul 24 11:22 : config: option 'options' on line 18 was not recognized
+Jul 24 11:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 24 11:22 : client: [0] opened from 127.0.0.1:40620
+Jul 24 11:22 : client: [1] opened from 127.0.0.1:40622
+Jul 24 11:35 : client: [1] closed
+Jul 24 11:35 : client: [0] closed
+Jul 24 11:35 : config: option 'options' on line 18 was not recognized
+Jul 24 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 24 11:35 : client: [0] opened from 127.0.0.1:59020
+Jul 24 11:35 : client: [1] opened from 127.0.0.1:59022
+Jul 24 11:52 : config: option 'options' on line 18 was not recognized
+Jul 24 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 24 11:52 : client: [0] opened from 127.0.0.1:47448
+Jul 24 11:52 : client: [1] opened from 127.0.0.1:47450
+Jul 25 10:27 : config: option 'options' on line 18 was not recognized
+Jul 25 10:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 10:27 : client: [0] opened from 127.0.0.1:47304
+Jul 25 10:28 : client: [1] opened from 127.0.0.1:47306
+Jul 25 10:37 : client: [1] closed
+Jul 25 10:37 : client: [0] closed
+Jul 25 10:37 : config: option 'options' on line 18 was not recognized
+Jul 25 10:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 10:37 : client: [0] opened from 127.0.0.1:45330
+Jul 25 10:37 : client: [1] opened from 127.0.0.1:45332
+Jul 25 10:46 : client: [1] closed
+Jul 25 10:46 : client: [2] opened from 127.0.0.1:45434
+Jul 25 10:47 : client: [2] closed
+Jul 25 10:47 : client: [3] opened from 127.0.0.1:45436
+Jul 25 11:26 : client: [0] closed
+Jul 25 11:27 : config: option 'options' on line 18 was not recognized
+Jul 25 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 11:27 : client: [0] opened from 127.0.0.1:43756
+Jul 25 11:27 : client: [1] opened from 127.0.0.1:43758
+Jul 26 19:48 : client: [1] closed
+Jul 26 19:48 : client: [2] opened from 127.0.0.1:46202
+Jul 26 19:49 : client: [2] closed
+Jul 26 19:49 : client: [3] opened from 127.0.0.1:46204
+Jul 26 19:49 : client: [3] closed
+Jul 26 19:49 : client: [4] opened from 127.0.0.1:46208
+Jul 26 19:49 : client: [4] closed
+Jul 26 19:49 : client: [5] opened from 127.0.0.1:46214
+Jul 26 19:49 : client: [5] closed
+Jul 26 19:49 : client: [6] opened from 127.0.0.1:46216
+Jul 26 19:50 : client: [6] closed
+Jul 26 19:50 : client: [7] opened from 127.0.0.1:46218
+Jul 26 19:54 : client: [7] closed
+Jul 26 19:54 : client: [8] opened from 127.0.0.1:46244
+Jul 26 19:56 : client: [8] closed
+Jul 26 19:56 : client: [9] opened from 127.0.0.1:46260
+Jul 26 19:59 : client: [9] closed
+Jul 26 19:59 : client: [10] opened from 127.0.0.1:46286
+Jul 26 20:09 : client: [10] closed
+Jul 26 20:09 : client: [11] opened from 127.0.0.1:46364
+Jul 26 20:13 : client: [0] closed
+Jul 26 20:14 : config: option 'options' on line 18 was not recognized
+Jul 26 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 20:14 : client: [0] opened from 127.0.0.1:41368
+Jul 26 20:14 : client: [1] opened from 127.0.0.1:41372
+Jul 26 20:25 : client: [1] closed
+Jul 26 20:26 : config: option 'options' on line 18 was not recognized
+Jul 26 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 20:26 : client: [0] opened from 127.0.0.1:49938
+Jul 26 20:26 : client: [1] opened from 127.0.0.1:49942
+Jul 26 20:26 : client: [0] closed
+Jul 26 20:26 : client: [2] opened from 127.0.0.1:50060
+Jul 26 20:27 : config: option 'options' on line 18 was not recognized
+Jul 26 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 20:27 : client: [0] opened from 127.0.0.1:44594
+Jul 26 20:27 : client: [1] opened from 127.0.0.1:44608
+Jul 26 20:45 : config: option 'options' on line 18 was not recognized
+Jul 26 20:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 20:45 : client: [0] opened from 127.0.0.1:56088
+Jul 26 20:45 : client: [1] opened from 127.0.0.1:56090
+Jul 26 20:54 : client: [1] closed
+Jul 26 20:54 : client: [0] closed
+Jul 26 20:55 : config: option 'options' on line 18 was not recognized
+Jul 26 20:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 20:55 : client: [0] opened from 127.0.0.1:49688
+Jul 26 20:55 : client: [1] opened from 127.0.0.1:49690
+Jul 26 21:13 : config: option 'options' on line 18 was not recognized
+Jul 26 21:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:13 : client: [0] opened from 127.0.0.1:34312
+Jul 26 21:13 : client: [1] opened from 127.0.0.1:34314
+Jul 26 21:19 : client: [1] closed
+Jul 26 21:19 : client: [2] opened from 127.0.0.1:34536
+Jul 26 21:21 : client: [2] closed
+Jul 26 21:21 : client: [3] opened from 127.0.0.1:34634
+Jul 26 21:26 : config: option 'options' on line 18 was not recognized
+Jul 26 21:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:26 : client: [0] opened from 127.0.0.1:56162
+Jul 26 21:26 : client: [1] opened from 127.0.0.1:56176
+Jul 26 21:41 : client: [1] closed
+Jul 26 21:41 : client: [0] closed
+Jul 26 21:41 : config: option 'options' on line 18 was not recognized
+Jul 26 21:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:41 : client: [0] opened from 127.0.0.1:48038
+Jul 26 21:41 : client: [1] opened from 127.0.0.1:48040
+Jul 26 21:49 : config: option 'options' on line 18 was not recognized
+Jul 26 21:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:49 : client: [0] opened from 127.0.0.1:57924
+Jul 26 21:49 : client: [1] opened from 127.0.0.1:57928
+Jul 26 21:50 : client: [0] closed
+Jul 26 21:50 : client: [2] opened from 127.0.0.1:57998
+Jul 26 21:50 : client: [2] closed
+Jul 26 21:50 : client: [3] opened from 127.0.0.1:58000
+Jul 26 21:54 : client: [3] closed
+Jul 26 21:54 : client: [4] opened from 127.0.0.1:58004
+Jul 26 22:42 : client: [4] closed
+Jul 26 22:42 : client: [5] opened from 127.0.0.1:58064
+Jul 26 22:47 : client: [5] closed
+Jul 26 22:47 : client: [6] opened from 127.0.0.1:58086
+Jul 26 22:47 : client: [6] closed
+Jul 26 22:47 : client: [7] opened from 127.0.0.1:58088
+Jul 26 22:47 : client: [7] closed
+Jul 26 22:47 : client: [8] opened from 127.0.0.1:58090
+Jul 26 22:48 : client: [8] closed
+Jul 26 22:48 : client: [9] opened from 127.0.0.1:58092
+Jul 26 22:48 : client: [9] closed
+Jul 26 22:48 : client: [10] opened from 127.0.0.1:58094
+Jul 26 22:48 : client: [10] closed
+Jul 26 22:48 : client: [11] opened from 127.0.0.1:58096
+Jul 26 22:48 : client: [12] opened from 127.0.0.1:58100
+Jul 26 22:49 : client: [12] closed
+Jul 26 22:50 : client: [11] closed
+Jul 26 22:50 : client: [13] opened from 127.0.0.1:58140
+Jul 26 22:51 : client: [13] closed
+Jul 26 22:51 : client: [14] opened from 127.0.0.1:58142
+Jul 26 22:57 : client: [14] closed
+Jul 26 22:57 : client: [15] opened from 127.0.0.1:58148
+Jul 26 22:57 : client: [15] closed
+Jul 26 22:57 : client: [16] opened from 127.0.0.1:58150
+Jul 26 23:12 : client: [16] closed
+Jul 26 23:12 : client: [17] opened from 127.0.0.1:58280
+Jul 27 11:57 : client: [1] closed
+Jul 27 11:57 : config: option 'options' on line 18 was not recognized
+Jul 27 11:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 11:57 : client: [0] opened from 127.0.0.1:48852
+Jul 27 11:57 : client: [1] opened from 127.0.0.1:48868
+Jul 27 12:03 : client: [0] closed
+Jul 27 12:03 : client: [2] opened from 127.0.0.1:49104
+Jul 27 12:04 : client: [2] closed
+Jul 27 12:04 : client: [3] opened from 127.0.0.1:49106
+Jul 27 12:04 : client: [3] closed
+Jul 27 12:04 : client: [4] opened from 127.0.0.1:49108
+Jul 27 12:05 : client: [4] closed
+Jul 27 12:05 : client: [5] opened from 127.0.0.1:49110
+Jul 27 12:07 : client: [5] closed
+Jul 27 12:07 : client: [6] opened from 127.0.0.1:49112
+Jul 27 12:08 : client: [6] closed
+Jul 27 12:08 : client: [7] opened from 127.0.0.1:49114
+Jul 27 12:08 : client: [7] closed
+Jul 27 12:08 : client: [8] opened from 127.0.0.1:49116
+Jul 27 12:08 : client: [8] closed
+Jul 27 12:08 : client: [9] opened from 127.0.0.1:49118
+Jul 27 12:12 : client: [1] closed
+Jul 27 12:13 : config: option 'options' on line 18 was not recognized
+Jul 27 12:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 12:13 : client: [0] opened from 127.0.0.1:57406
+Jul 27 12:13 : client: [1] opened from 127.0.0.1:57410
+Jul 30 12:41 : client: [0] closed
+Jul 30 12:41 : client: [2] opened from 127.0.0.1:33042
+Jul 30 12:41 : client: [2] closed
+Jul 30 12:41 : client: [3] opened from 127.0.0.1:33044
+Jul 30 12:41 : client: [3] closed
+Jul 30 12:41 : client: [4] opened from 127.0.0.1:33050
+Jul 30 12:41 : client: [4] closed
+Jul 30 12:41 : client: [5] opened from 127.0.0.1:33052
+Jul 30 12:45 : client: [5] closed
+Jul 30 12:45 : client: [6] opened from 127.0.0.1:33180
+Jul 30 12:46 : client: [6] closed
+Jul 30 12:46 : client: [7] opened from 127.0.0.1:33182
+Jul 30 12:47 : client: [7] closed
+Jul 30 12:47 : client: [8] opened from 127.0.0.1:33188
+Jul 30 12:49 : client: [9] opened from 127.0.0.1:33190
+Jul 30 12:49 : client: [8] closed
+Jul 30 12:49 : client: [9] closed
+Jul 30 12:49 : client: [10] opened from 127.0.0.1:33192
+Jul 30 12:50 : client: [10] closed
+Jul 30 12:50 : client: [11] opened from 127.0.0.1:33194
+Jul 30 12:55 : client: [11] closed
+Jul 30 12:55 : client: [12] opened from 127.0.0.1:33248
+Jul 30 12:56 : client: [12] closed
+Jul 30 12:56 : client: [13] opened from 127.0.0.1:33250
+Jul 30 12:56 : client: [13] closed
+Jul 30 12:56 : client: [14] opened from 127.0.0.1:33252
+Jul 30 12:56 : client: [14] closed
+Jul 30 12:56 : client: [15] opened from 127.0.0.1:33254
+Jul 30 12:56 : client: [15] closed
+Jul 30 12:56 : client: [16] opened from 127.0.0.1:33256
+Jul 30 12:58 : client: [16] closed
+Jul 30 12:58 : client: [17] opened from 127.0.0.1:33264
+Jul 30 18:04 : client: [1] closed
+Jul 30 18:04 : config: option 'options' on line 18 was not recognized
+Jul 30 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 18:04 : client: [0] opened from 127.0.0.1:33412
+Jul 30 18:04 : client: [1] opened from 127.0.0.1:33414
+Jul 30 18:10 : client: [0] closed
+Jul 30 18:10 : config: option 'options' on line 18 was not recognized
+Jul 30 18:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 18:10 : client: [0] opened from 127.0.0.1:34812
+Jul 30 18:10 : client: [1] opened from 127.0.0.1:34830
+Jul 30 20:30 : config: option 'options' on line 18 was not recognized
+Jul 30 20:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 20:30 : client: [0] opened from 127.0.0.1:46208
+Jul 30 20:30 : client: [1] opened from 127.0.0.1:46222
+Jul 31 01:08 : client: [0] closed
+Jul 31 01:08 : client: [1] closed
+Jul 31 01:09 : config: option 'options' on line 18 was not recognized
+Jul 31 01:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 01:09 : client: [0] opened from 127.0.0.1:53154
+Jul 31 01:09 : client: [1] opened from 127.0.0.1:53158
+Jul 31 15:28 : client: [1] closed
+Jul 31 15:29 : config: option 'options' on line 18 was not recognized
+Jul 31 15:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 15:29 : client: [0] opened from 127.0.0.1:47076
+Jul 31 15:29 : client: [1] opened from 127.0.0.1:47078
+Jul 31 18:25 : config: option 'options' on line 18 was not recognized
+Jul 31 18:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 18:25 : client: [0] opened from 127.0.0.1:48942
+Jul 31 18:25 : client: [1] opened from 127.0.0.1:48944
+Aug 01 11:58 : config: option 'options' on line 18 was not recognized
+Aug 01 11:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 01 11:58 : client: [0] opened from 127.0.0.1:45710
+Aug 01 11:58 : client: [1] opened from 127.0.0.1:45712
+Aug 01 21:58 : client: [0] closed
+Aug 01 21:59 : config: option 'options' on line 18 was not recognized
+Aug 01 21:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 01 21:59 : client: [0] opened from 127.0.0.1:57586
+Aug 01 21:59 : client: [1] opened from 127.0.0.1:57588
+Aug 02 08:24 : client: [0] closed
+Aug 02 08:24 : client: [1] closed
+Aug 02 21:51 : config: option 'options' on line 18 was not recognized
+Aug 02 21:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 21:51 : client: [0] opened from 127.0.0.1:46478
+Aug 02 21:51 : client: [1] opened from 127.0.0.1:46498
+Aug 08 12:38 : config: option 'options' on line 18 was not recognized
+Aug 08 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 12:38 : client: [0] opened from 127.0.0.1:35908
+Aug 08 12:38 : client: [1] opened from 127.0.0.1:35924
+Aug 14 06:23 : config: option 'options' on line 18 was not recognized
+Aug 14 06:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 06:23 : client: [0] opened from 127.0.0.1:53184
+Aug 14 06:23 : client: [1] opened from 127.0.0.1:53200
+Aug 20 16:49 : client: [0] closed
+Aug 20 16:49 : client: [1] closed
+Aug 20 16:50 : config: option 'options' on line 18 was not recognized
+Aug 20 16:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 16:50 : client: [0] opened from 127.0.0.1:44384
+Aug 20 16:50 : client: [1] opened from 127.0.0.1:44386
+Aug 20 16:52 : client: [0] closed
+Aug 20 16:52 : config: option 'options' on line 18 was not recognized
+Aug 20 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 16:52 : client: [0] opened from 127.0.0.1:49564
+Aug 20 16:52 : client: [1] opened from 127.0.0.1:49568
+Aug 22 14:49 : config: option 'options' on line 18 was not recognized
+Aug 22 14:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 14:49 : client: [0] opened from 127.0.0.1:40304
+Aug 22 14:49 : client: [1] opened from 127.0.0.1:40308
+Aug 22 16:52 : client: [1] closed
+Aug 22 21:00 : config: option 'options' on line 18 was not recognized
+Aug 22 21:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 21:00 : client: [0] opened from 127.0.0.1:33398
+Aug 22 21:00 : client: [1] opened from 127.0.0.1:33402
+Aug 22 22:45 : client: [1] closed
+Aug 22 22:45 : client: [0] closed
+Aug 22 22:46 : config: option 'options' on line 18 was not recognized
+Aug 22 22:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 22:46 : client: [0] opened from 127.0.0.1:35346
+Aug 22 22:46 : client: [1] opened from 127.0.0.1:35348
+Aug 22 23:15 : config: option 'options' on line 18 was not recognized
+Aug 22 23:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 23:15 : client: [0] opened from 127.0.0.1:39688
+Aug 22 23:15 : client: [1] opened from 127.0.0.1:39704
+Aug 24 15:52 : config: option 'options' on line 18 was not recognized
+Aug 24 15:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 15:52 : client: [0] opened from 127.0.0.1:42840
+Aug 24 15:52 : client: [1] opened from 127.0.0.1:42842
+Aug 24 16:53 : client: [0] closed
+Aug 25 00:53 : config: option 'options' on line 18 was not recognized
+Aug 25 00:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 00:53 : client: [0] opened from 127.0.0.1:47268
+Aug 25 00:53 : client: [1] opened from 127.0.0.1:47284
+Aug 28 11:09 : client: [1] closed
+Aug 28 11:09 : client: [0] closed
+Aug 28 11:10 : config: option 'options' on line 18 was not recognized
+Aug 28 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 11:10 : client: [0] opened from 127.0.0.1:35296
+Aug 28 11:10 : client: [1] opened from 127.0.0.1:35314
+Aug 28 11:17 : client: [1] closed
+Aug 28 11:17 : client: [0] closed
+Aug 28 11:18 : config: option 'options' on line 18 was not recognized
+Aug 28 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 11:18 : client: [0] opened from 127.0.0.1:39928
+Aug 28 11:18 : client: [1] opened from 127.0.0.1:39932
+Aug 29 12:50 : config: option 'options' on line 18 was not recognized
+Aug 29 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 12:50 : client: [0] opened from 127.0.0.1:47190
+Aug 29 12:50 : client: [1] opened from 127.0.0.1:47192
+Aug 29 13:53 : client: [1] closed
+Aug 29 13:53 : client: [2] opened from 127.0.0.1:48488
+Aug 29 14:40 : config: option 'options' on line 18 was not recognized
+Aug 29 14:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 14:40 : client: [0] opened from 127.0.0.1:46440
+Aug 29 14:40 : client: [1] opened from 127.0.0.1:46444
+Sep 05 14:52 : config: option 'options' on line 18 was not recognized
+Sep 05 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 14:52 : client: [0] opened from 127.0.0.1:58730
+Sep 05 14:52 : client: [1] opened from 127.0.0.1:58746
+Sep 05 17:06 : client: [0] closed
+Sep 05 17:06 : client: [2] opened from 127.0.0.1:60944
+Sep 08 05:04 : config: option 'options' on line 18 was not recognized
+Sep 08 05:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 05:04 : client: [0] opened from 127.0.0.1:36062
+Sep 08 05:04 : client: [1] opened from 127.0.0.1:36066
+Sep 11 03:34 : client: [1] closed
+Sep 11 17:33 : config: option 'options' on line 18 was not recognized
+Sep 11 17:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 17:33 : client: [0] opened from 127.0.0.1:36118
+Sep 11 17:33 : client: [1] opened from 127.0.0.1:36122
+Sep 19 16:15 : client: [0] closed
+Sep 19 16:15 : client: [2] opened from 127.0.0.1:47266

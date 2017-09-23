@@ -1,0 +1,248 @@
+# vim: ft=i3
+# i3 config file
+
+#Global variables
+set $mod Mod4
+set $alt Mod1
+set $editor termite
+set $height 28
+
+# Font
+font pango:Hack for Powerline 10
+
+# Colors
+set_from_resource $darkred     color1  #000000
+set_from_resource $red         color9  #000000
+set_from_resource $darkgreen   color2  #000000
+set_from_resource $green       color10 #000000
+set_from_resource $darkyellow  color3  #000000
+set_from_resource $yellow      color11 #000000
+set_from_resource $darkblue    color4  #000000
+set_from_resource $blue        color12 #000000
+set_from_resource $darkmagenta color5  #000000
+set_from_resource $magenta     color13 #000000
+set_from_resource $darkcyan    color6  #000000
+set_from_resource $cyan        color14 #000000
+set_from_resource $darkwhite   color7  #000000
+set_from_resource $white       color15 #000000
+
+# Use custom colors for black
+set $black       #282828
+set $darkblack   #1d2021
+set $transparent #00000000
+
+# General
+bindsym $alt+b border toggle
+workspace_auto_back_and_forth yes
+force_display_urgency_hint 0 ms
+focus_on_window_activation urgent
+floating_minimum_size -1 x -1
+floating_maximum_size -1 x -1
+
+# Take a screenshot
+bindsym $mod+Shift+p exec --no-startup-id scrot 'Screenshot %m-%d-%y.png' -e 'mv "$f" ~/Pictures/'
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# Start a terminal
+bindsym $mod+Return exec i3-sensible-terminal
+
+# Alt tabbing
+bindsym $alt+Tab exec rofi -show window
+
+# Kill focused window
+bindsym $mod+Shift+q kill
+
+# start rofi
+bindsym $mod+d exec --no-startup-id rofi -show run
+
+# change focus
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+
+# move focused window
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
+
+# split in horizontal orientation
+bindsym $mod+z split h
+# split in vertical orientation
+bindsym $mod+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+a focus parent
+
+# Colors for i3
+#                       BORDER      BACKGROUND  TEXT        INDICATOR   CHILD_BORDER
+client.focused          $white      $black      $white      $darkblack  $white
+client.unfocused        $darkwhite  $black      $darkwhite  $darkblack  $darkwhite
+client.focused_inactive $darkwhite  $black      $darkwhite  $darkblack  $darkwhite
+client.urgent           $darkwhite  $darkred    $black      $darkred    $darkwhite
+client.background       $black
+
+# switch to workspace
+bindsym $mod+1 workspace 1
+bindsym $mod+2 workspace 2
+bindsym $mod+3 workspace 3
+bindsym $mod+4 workspace 4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+7 workspace 7
+bindsym $mod+8 workspace 8
+bindsym $mod+9 workspace 9
+bindsym $mod+0 workspace 10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace 1
+bindsym $mod+Shift+2 move container to workspace 2
+bindsym $mod+Shift+3 move container to workspace 3
+bindsym $mod+Shift+4 move container to workspace 4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+8 move container to workspace 8
+bindsym $mod+Shift+9 move container to workspace 9
+bindsym $mod+Shift+0 move container to workspace 10
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Are you sure you want to log out of i3?' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# Borders
+for_window [class="^.*"] border pixel 3
+new_window none
+smart_borders on
+#smart_gaps on
+
+# Windows that should be floating float
+for_window [class="Galculator"] floating enable
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="bubble"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [window_role="Preferences"] floating enable
+for_window [window_type="dialog"] floating enable
+for_window [window_type="menu"] floating enable
+for_window [class="Putty"] floating enable
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym j resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+# change the size of the gaps modal
+set $mod_gaps inner
+bindsym $mod+shift+g mode "$mode_gaps"
+mode "$mode_gaps" {
+    bindsym plus  gaps inner current plus 5
+    bindsym minus gaps inner current minus 5
+    bindsym 0     mode "default", gaps inner current set 0
+    bindsym d     mode "default", gaps inner current set $default_gaps_inner
+
+    bindsym Shift+plus  gaps inner all plus 5
+    bindsym Shift+minus gaps inner all minus 5
+    bindsym Shift+0     mode "default", gaps inner all set 0
+    bindsym Shift+d     mode "default", gaps inner all set $default_gaps_inner
+
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+
+# Start i3bar to display a workspace bar (plus the system information i3status
+#bar {
+##   verbose yes
+#    status_command i3blocks
+#    i3bar_command i3bar -t
+#    position top
+#    font pango:Hack 10
+#    strip_workspace_numbers yes
+#    separator_symbol "|"
+#    bindsym button4 nop
+#    bindsym button5 nop
+#    tray_output eDP-1
+#    tray_padding 0
+#    height $height
+#    colors {
+#        statusline         $white
+#        background         $transparent
+#        separator          $transparent
+#
+##                          BORDER       BACKGROUND   TEXT
+#        focused_workspace  $transparent $transparent $white
+#        inactive_workspace $transparent $transparent $darkwhite
+#        active_workspace   $transparent $transparent $white
+#        urgent_workspace   $darkred     $darkred     $transparent
+#        binding_mode       $darkred     $darkred     $transparent
+#    }
+#}
+
+# Audio Buttons
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +10%
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -10%
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle
+
+# Scratchpad
+exec --no-startup-id termite --name=termite_scratchpad
+exec --no-startup-id termite -e "ncmpcpp" --name=ncmpcpp_scratchpad
+for_window [instance="termite_scratchpad"] move to scratchpad
+for_window [instance="ncmpcpp_scratchpad"] move to scratchpad
+bindsym $mod+x [instance="termite_scratchpad"] scratchpad show
+bindsym $mod+m [instance="ncmpcpp_scratchpad"] scratchpad show
+
+# Assignments
+assign [class="Nautilus"] 3
+assign [class="Steam"] 4
+
+# Autostart
+exec --no-startup-id mpd &
+exec --no-startup-id nautilus &
+exec --no-startup-id nm-applet
+exec --no-startup-id compton -b
+exec --no-startup-id dunst &
+
+exec --no-startup-id i3-msg 'workspace 2; exec i3-sensible-terminal'
+exec_always --no-startup-id feh --bg-fill /home/dyllan/Pictures/mountain.jpg
+exec_always --no-startup-id /home/dyllan/.config/polybar/polybar.sh
+exec --no-startup-id i3-msg 'workspace 1; exec chromium'
+
+# Default Gaps
+set $default_gaps_inner 15
+set $default_gaps_outer 25
+gaps inner $default_gaps_inner
+gaps outer $default_gaps_outer

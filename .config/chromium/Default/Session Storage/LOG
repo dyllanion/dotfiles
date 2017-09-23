@@ -1,0 +1,45 @@
+2017/09/12-03:27:15.621 8366 Reusing MANIFEST /home/dyllan/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/09/12-03:27:15.622 8366 Recovering log #1508
+2017/09/12-03:27:15.622 8366 Reusing old log /home/dyllan/.config/chromium/Default/Session Storage/001508.log 
+2017/09/12-03:27:48.936 8531 Level-0 table #1513: started
+2017/09/12-03:27:48.939 8531 Level-0 table #1513: 19960 bytes OK
+2017/09/12-03:27:48.941 8531 Delete type=0 #1508
+2017/09/19-14:16:15.179 8531 Compacting 1@0 + 1@1 files
+2017/09/19-14:16:15.185 8531 Generated table #1514@0: 1199 keys, 24367 bytes
+2017/09/19-14:16:15.185 8531 Compacted 1@0 + 1@1 files => 24367 bytes
+2017/09/19-14:16:15.189 8531 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/09/19-14:16:15.189 8531 Delete type=2 #1510
+2017/09/19-14:16:15.189 8531 Delete type=2 #1513
+2017/09/19-14:28:07.852 8531 Level-0 table #1516: started
+2017/09/19-14:28:07.858 8531 Level-0 table #1516: 108312 bytes OK
+2017/09/19-14:28:07.861 8531 Delete type=0 #1512
+2017/09/19-14:32:02.442 8531 Level-0 table #1518: started
+2017/09/19-14:32:02.447 8531 Level-0 table #1518: 114778 bytes OK
+2017/09/19-14:32:02.449 8531 Delete type=0 #1515
+2017/09/19-14:37:19.112 8531 Level-0 table #1520: started
+2017/09/19-14:37:19.116 8531 Level-0 table #1520: 92674 bytes OK
+2017/09/19-14:37:19.124 8531 Delete type=0 #1517
+2017/09/19-14:45:09.791 8531 Level-0 table #1522: started
+2017/09/19-14:45:09.794 8531 Level-0 table #1522: 58153 bytes OK
+2017/09/19-14:45:09.799 8531 Delete type=0 #1519
+2017/09/19-14:45:09.799 8531 Compacting 4@0 + 1@1 files
+2017/09/19-14:45:09.807 8531 Generated table #1523@0: 1493 keys, 236552 bytes
+2017/09/19-14:45:09.807 8531 Compacted 4@0 + 1@1 files => 236552 bytes
+2017/09/19-14:45:09.811 8531 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/09/19-14:45:09.811 8531 Delete type=2 #1520
+2017/09/19-14:45:09.812 8531 Delete type=2 #1522
+2017/09/19-14:45:09.812 8531 Delete type=2 #1516
+2017/09/19-14:45:09.812 8531 Delete type=2 #1514
+2017/09/19-14:45:09.812 8531 Delete type=2 #1518
+2017/09/19-17:13:48.429 8531 Level-0 table #1525: started
+2017/09/19-17:13:48.441 8531 Level-0 table #1525: 56846 bytes OK
+2017/09/19-17:13:48.444 8531 Delete type=0 #1521
+2017/09/20-11:10:48.142 8531 Compacting 1@0 + 1@1 files
+2017/09/20-11:10:48.147 8531 Generated table #1526@0: 1556 keys, 240741 bytes
+2017/09/20-11:10:48.147 8531 Compacted 1@0 + 1@1 files => 240741 bytes
+2017/09/20-11:10:48.149 8531 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/09/20-11:10:48.149 8531 Delete type=2 #1523
+2017/09/20-11:10:48.149 8531 Delete type=2 #1525
+2017/09/23-14:21:29.158 8531 Level-0 table #1528: started
+2017/09/23-14:21:29.170 8531 Level-0 table #1528: 21336 bytes OK
+2017/09/23-14:21:29.174 8531 Delete type=0 #1524

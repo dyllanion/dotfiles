@@ -1,0 +1,4 @@
+[Added Associations]
+text/plain=vim.desktop;nautilus-autorun-software.desktop;org.gnome.Nautilus.desktop;
+application/epub+zip=zathura.desktop;
+application/x-mobipocket-ebook=zathura.desktop;

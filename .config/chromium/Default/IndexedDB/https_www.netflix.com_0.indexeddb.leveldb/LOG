@@ -1,0 +1,18 @@
+2017/08/16-15:23:39.321 1218 Reusing MANIFEST /home/dyllan/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/08/16-15:23:39.322 1218 Recovering log #23
+2017/08/16-15:23:39.324 1218 Reusing old log /home/dyllan/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000023.log 
+2017/08/16-17:13:01.129 21455 Level-0 table #27: started
+2017/08/16-17:13:01.151 21455 Level-0 table #27: 2191188 bytes OK
+2017/08/16-17:13:01.155 21455 Delete type=0 #23
+2017/08/17-04:13:39.548 21455 Level-0 table #29: started
+2017/08/17-04:13:39.574 21455 Level-0 table #29: 2014603 bytes OK
+2017/08/17-04:13:39.580 21455 Delete type=0 #26
+2017/08/17-04:13:39.580 21455 Compacting 4@0 + 1@1 files
+2017/08/17-04:13:39.648 21455 Generated table #30@0: 13 keys, 9665 bytes
+2017/08/17-04:13:39.648 21455 Compacted 4@0 + 1@1 files => 9665 bytes
+2017/08/17-04:13:39.652 21455 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/17-04:13:39.652 21455 Delete type=2 #21
+2017/08/17-04:13:39.652 21455 Delete type=2 #19
+2017/08/17-04:13:39.652 21455 Delete type=2 #27
+2017/08/17-04:13:39.652 21455 Delete type=2 #24
+2017/08/17-04:13:39.652 21455 Delete type=2 #29
